@@ -1,0 +1,10 @@
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\bin\Debug\YouTubeViewer.exe.config
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\bin\Debug\YouTubeViewer.exe
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\bin\Debug\YouTubeViewer.pdb
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\bin\Debug\Leaf.xNet.dll
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\bin\Debug\Leaf.xNet.xml
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\obj\Debug\YouTubeViewer.csprojAssemblyReference.cache
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\obj\Debug\YouTubeViewer.csproj.CoreCompileInputs.cache
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\obj\Debug\YouTubeViewer.csproj.CopyComplete
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\obj\Debug\YouTubeViewer.exe
+K:\Users\Коля\source\repos\YouTubeViewer\YouTubeViewer\obj\Debug\YouTubeViewer.pdb
